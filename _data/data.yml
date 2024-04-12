@@ -55,25 +55,25 @@ sidebar:
         - item: Real Estate and Housing
           link:          
      
-    references:
-      title: References 
-      info: 
-        - name: Patrick Bayer
-          affiliation: Duke University
-          link: https://sites.duke.edu/patrickbayer/
-          
-        - name: Christopher Timmins
-          affiliation: University of Wisconsin Madison - Wisconsin School of Business
-          link: https://www.christophertimmins.com/
-          
-        - name: Maisy Wong
-          affiliation: University of Pennsylvania - Wharton School of Business 
-          link: https://sites.google.com/view/maisywong
+#    references:
+#      title: References 
+#      info: 
+#        - name: Patrick Bayer
+#          affiliation: Duke University
+#          link: https://sites.duke.edu/patrickbayer/
+#          
+#        - name: Christopher Timmins
+#          affiliation: University of Wisconsin Madison - Wisconsin School of Business
+#          link: https://www.christophertimmins.com/
+#          
+#        - name: Maisy Wong
+#          affiliation: University of Pennsylvania - Wharton School of Business 
+#          link: https://sites.google.com/view/maisywong
 
 career-profile:
     title: About Me
     summary: |
-      I am a Ph.D. candidate in Economics at Duke University. I will be on the job market during the 2023-2024 academic year and will be available for interviews. 
+      I am an applied microeconomist interested in public and urban economics. I will begin as an Assistant Professor at the University of Hawai&#x02bb;i at M&#x0101;noa in the Fall. 
       
 education:
     title: Education
