@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: JoonYup Park
-    tagline: Assistant Professor,<br>University of Hawai&#x02bb;i at M&#x0101;noa 
+    tagline: Assistant Professor<br>University of Hawai&#x02bb;i at M&#x0101;noa 
     avatar: jyp_profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -73,14 +73,15 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am an applied microeconomist interested in public and urban economics. I will begin as an Assistant Professor at the University of Hawai&#x02bb;i at M&#x0101;noa in the Fall. 
+      I am an applied microeconomist interested in public and urban economics. I will begin as an Assistant Professor in the <a href="https://durp.manoa.hawaii.edu/" target="_blank">Department of Urban and Regional Planning (DURP)</a> and the <a href="https://uhero.hawaii.edu/" target="_blank">University of Hawai&#x02bb;i Economic Research Organization (UHERO)</a> at the University of Hawai&#x02bb;i at M&#x0101;noa in the Fall of 2024.
+
       
 education:
     title: Education
     info:
       - degree: Ph.D. in Economics
         university: Duke University 
-        time: (Expected) 2024
+        time: 2024
         details: |
 
       - degree: B.A. in Mathematical Economics
@@ -117,29 +118,39 @@ education:
 #        details: |
 
 
-jobmarketpaper: 
-    title: Job Market Paper
-    intro: >
-    papers:
-      - title: Improving Access to Opportunity&colon; Housing Vouchers and Residential Equilibrium 
-        link: 
-        authors: solo-authored 
-        pdfs: <a href="/pdfs/park_small_area_fair_market_rents.pdf" target="_blank">&#91;Paper&#93;</a>
-        abstract: "This paper examines the effects of improving low-income households' access to high-rent, high-opportunity neighborhoods on the residential equilibrium. Amidst pervasive residential segregation, I study the Small Area Fair Market Rents, a re-design of the rental voucher program that increased subsidies in high-rent neighborhoods and allowed voucher families to relocate there. I find that it led to a more polarized rental market: rents rose in high-rent areas but declined in low-rent areas. In contrast, it fostered a more egalitarian equilibrium in terms of income and racial composition. While high-income non-voucher households experienced a modicum of welfare loss due to increased living costs, low-income counterparts benefited from reduced rents in low-rent neighborhoods. However, I find that the institution of the voucher program itself led to a substantial welfare loss for low-income households, the very population this program aims to assist. This research illustrates the broader implications of housing vouchers, underscoring the need to balance affordable housing, societal integration, and overall welfare. "
-        presented: <i>Presentation</i>&colon; Federal Reserve Bank of Philadelphia, KER International Conference 2023, NARSC International 2023, TAMC 2023, UEA Summer School 2023, UEA North American Meeting 2023, Wharton - Urban and Real Estate
-        awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
+#jobmarketpaper: 
+#    title: Job Market Paper
+#    intro: >
+#    papers:
+#      - title: Improving Access to Opportunity&colon; Housing Vouchers and Residential Equilibrium 
+#        link: 
+#        authors: solo-authored 
+#        pdfs: <a href="/pdfs/park_small_area_fair_market_rents.pdf" target="_blank">&#91;Paper&#93;</a>
+#        abstract: "This paper examines the effects of improving low-income households' access to high-rent, high-opportunity neighborhoods on the residential equilibrium. Amidst pervasive residential segregation, I study the Small Area Fair Market Rents, a re-design of the rental voucher program that increased subsidies in high-rent neighborhoods and allowed voucher families to relocate there. I find that it led to a more polarized rental market: rents rose in high-rent areas but declined in low-rent areas. In contrast, it fostered a more egalitarian equilibrium in terms of income and racial composition. While high-income non-voucher households experienced a modicum of welfare loss due to increased living costs, low-income counterparts benefited from reduced rents in low-rent neighborhoods. However, I find that the institution of the voucher program itself led to a substantial welfare loss for low-income households, the very population this program aims to assist. This research illustrates the broader implications of housing vouchers, underscoring the need to balance affordable housing, societal integration, and overall welfare. "
+#        presented: <i>Presentation</i>&colon; Federal Reserve Bank of Philadelphia, KER International Conference 2023, NARSC International 2023, TAMC 2023, UEA Summer School 2023, UEA North American Meeting 2023, Wharton - Urban and Real Estate
+#        awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
 
 
 workingpapers: 
     title: Working Papers
     intro: >
     papers:
+ 
+      - title: Improving Access to Opportunity&colon; Housing Vouchers and Residential Equilibrium
+        link: 
+        authors: solo-authored
+        conference: 
+        #presented: <i>Presentation</i>&colon; Federal Reserve Bank of Philadelphia, KER International Conference 2023, NARSC International 2023, TAMC 2023, UEA Summer School 2023, UEA North American Meeting 2023, Wharton - Urban and Real Estate
+        presented: <i>Presentation</i>&colon; AREUEA 2024, Federal Reserve Bank of Philadelphia, Indiana University, KER 2023, KIET, KIF, NARSC 2023, New York University, Sogang University, TAMC 2023, UEA North America 2023, UEA Summer School 2023, University of Alberta, Wharton 
+        pdfs:  <a href="/pdfs/park_small_area_fair_market_rents.pdf" target="_blank">&#91;Paper&#93;</a>
+        abstract: "This paper examines the effects of improving low-income households' access to high-rent, high-opportunity neighborhoods on the residential equilibrium. Amidst pervasive residential segregation, I study the Small Area Fair Market Rents, a re-design of the rental voucher program that increased subsidies in high-rent neighborhoods and allowed voucher families to relocate there. I find that it led to a more polarized rental market: rents rose in high-rent areas but declined in low-rent areas. In contrast, it fostered a more egalitarian equilibrium in terms of income and racial composition. While high-income non-voucher households experienced a modicum of welfare loss due to increased living costs, low-income counterparts benefited from reduced rents in low-rent neighborhoods. However, I find that the institution of the voucher program itself led to a substantial welfare loss for low-income households, the very population this program aims to assist. This research illustrates the broader implications of housing vouchers, underscoring the need to balance affordable housing, societal integration, and overall welfare."
+        awards: <i>Awards</i>&colon; Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
 
       - title: The Long Road to Equality&colon; Racial Capital and Group Convergence across Generations
         link: 
         authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://faculty.som.yale.edu/kerwincharles/">Kerwin Kofi Charles</a>
         conference: 
-        presented: <i>Presentation</i>&colon; AREUEA, Carnegie Mellon University - Heinz College, Columbia University, Harvard Kennedy School, McGill, UEA European Meeting 2023 - Keynote, University of Southern California, University of Utah, Vanderbilt, Wharton - Urban and Real Estate
+        presented: <i>Presentation</i>&colon; AREUEA, Carnegie Mellon University, Columbia University, Harvard University, McGill University, UEA Europe 2023 - Keynote, University of Southern California, University of Utah, Vanderbilt, Wharton
         pdfs:  "&#91;Draft coming soon!&#93;"
         abstract: "We develop a theoretical framework in which segregation, discrimination, and other racialized processes make intergenerational mobility a function of the capital available to one’s broader racial/ethnic group, as in Borjas (1992). We show that racial capital systematically slows the speed of generational convergence for historically unequal groups and that, for any particular racial group, its impact is directly related to the social salience of race in society. We estimate empirical models of intergenerational mobility using data from Opportunity Insights and the NLSY for Asian, Black, Hispanic, and white children born around 1980. Racial capital at the neighborhood and, especially, the metropolitan area levels has a substantial role in explaining Black-white education, income, and employment gaps. It matters about half as much for Hispanic-white differences and very little for Asian-white differences. The inclusion of racial capital in the model sharply closes, and in many cases reverses, the Black-white and Hispanic-white intergenerational mobility gaps documented in Chetty et al. (2020). These results imply that (1) observed racial outcome gaps are largely a function of historical inequities in available capital (more broadly construed here to include neighborhood/metro racial capital in addition to one’s own parents) and (2) racial capital -- and, more fundamentally, the continued social salience of race -- plays a crucial role in explaining the historically slow speed of generational convergence to Black-white equality in the United States. Relative to existing estimates, our results are more suggestive of the eventual convergence to racial equality, albeit at a glacial pace.  "
         
