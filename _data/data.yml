@@ -74,7 +74,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am an Assistant Professor in the <a href="https://durp.manoa.hawaii.edu/" target="_blank">Department of Urban and Regional Planning (DURP)</a> and the <a href="https://uhero.hawaii.edu/" target="_blank">University of Hawai&#x02bb;i Economic Research Organization (UHERO)</a> at the University of Hawai&#x02bb;i at M&#x0101;noa. I am also the <a href="https://www.hcrchawaii.com/" target="_blank">Hawai&#x02bb;i Community Reinvestment Corporation (HCRC)</a> Professor of Affordable Housing Economics, Policy, and Planning. 
+      I am an Assistant Professor in the <a href="https://durp.manoa.hawaii.edu/" target="_blank">Department of Urban and Regional Planning (DURP)</a> and the <a href="https://uhero.hawaii.edu/" target="_blank">University of Hawai&#x02bb;i Economic Research Organization (UHERO)</a> at the University of Hawai&#x02bb;i at M&#x0101;noa. I serve as the <a href="https://www.hcrchawaii.com/" target="_blank">Hawai&#x02bb;i Community Reinvestment Corporation (HCRC)</a> Professor of Affordable Housing Economics, Policy, and Planning. I am also a Research Affiliate at New York University's <a href="https://furmancenter.org/" target="_blank">Furman Center for Real Estate and Urban Policy</a>. 
 
       
 education:
@@ -136,6 +136,13 @@ workingpapers:
     title: Working Papers
     intro: >
     papers:
+      - title: Cost of Housing Vouchers&colon; How Increased Access to Opportunity Can Pay for Itself
+        link: 
+        authors: solo-authored
+        conference: 
+        #presented: <i>Presentation</i>&colon; Federal Reserve Bank of Boston 
+        pdfs: "&#91;Draft coming soon!&#93;"
+        #abstract: "In the U.S., Black and white households with identical incomes live in neighborhoods characterized by vastly different economic resources.  This racial neighborhood inequality is present in every major metropolitan area and at all points of the income distribution. We document these patterns using neighborhood income as a summary measure of economic resources and highlight where this form of racial inequality is especially severe. We then examine a series of potential explanatory mechanisms for neighborhood inequality, including decentralized racial sorting, housing discrimination, and racial differences in wealth and home ownership. We conclude with a discussion of how the separate and unequal geography of the American housing market contributes to intergenerational mobility and the speed of racial economic convergence in the United States."
  
       - title: Improving Access to Opportunity&colon; Housing Vouchers and Residential Equilibrium
         link: 
