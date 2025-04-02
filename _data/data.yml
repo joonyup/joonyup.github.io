@@ -136,13 +136,13 @@ workingpapers:
     title: Working Papers
     intro: >
     papers:
-      - title: Cost of Housing Vouchers&colon; How Increased Access to Opportunity Can Pay for Itself
+      - title: Housing Vouchers and Neighborhood Effects&colon; Can Expanding Access to Opportunity Pay for Itself?
         link: 
         authors: solo-authored
         conference: 
         #presented: <i>Presentation</i>&colon; Federal Reserve Bank of Boston 
         pdfs: "&#91;Draft coming soon!&#93;"
-        #abstract: "In the U.S., Black and white households with identical incomes live in neighborhoods characterized by vastly different economic resources.  This racial neighborhood inequality is present in every major metropolitan area and at all points of the income distribution. We document these patterns using neighborhood income as a summary measure of economic resources and highlight where this form of racial inequality is especially severe. We then examine a series of potential explanatory mechanisms for neighborhood inequality, including decentralized racial sorting, housing discrimination, and racial differences in wealth and home ownership. We conclude with a discussion of how the separate and unequal geography of the American housing market contributes to intergenerational mobility and the speed of racial economic convergence in the United States."
+        abstract: "This paper studies the impact of Small Area Fair Market Rents (SAFMR), a major reform to the voucher program that adjusts rent ceilings to a finer ZIP-code level variation, on voucher households' neighborhood and economic outcomes, and their interaction with the fiscal and non-fiscal components of program operation. Using a difference-in-differences design, I find that SAFMR improved voucher holders' relocation to higher-rent, lower-poverty neighborhoods. These effects were especially pronounced in metropolitan areas with high levels of residential segregation. Consistent with the neighborhood effects literature, relocation to high-opportunity neighborhoods increased household income and rent contributions, leading to declines in federal spending per voucher. However, the reform did not expand program reach. Long-run evidence from the first SAFMR adopter shows that federal per-unit costs eventually rose as the number of subsidized households in high-rent areas outweighed the income-driven savings, resulting in a contraction in the number of households served. These findings highlight a key trade-off: while SAFMR generates fiscal efficiencies in the short run, its long-term financial sustainability remains uncertain under a fixed program budget. "
  
       - title: Improving Access to Opportunity&colon; Housing Vouchers and Residential Equilibrium
         link: 
