@@ -19,31 +19,47 @@
   {% for publication in workingpapers.papers %}
   <div class="item" style="margin-bottom: 20px;">
     <style> 
-      .item li {list-style: none;} 
-      .reduced-font {
-           font-size: 0.9em;
-       }
+      .item li { list-style: none; } 
+      .reduced-font { font-size: 0.9em; }
     </style>
+
     {% if publication.link %}
-      <li style="font-size: 1em; font-weight: bold;"><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+      <li style="font-size: 1em; font-weight: bold;">
+        <a href="{{ publication.link }}">{{ publication.title }}</a>
+      </li>
     {% else %}
-      <li style="font-size: 1em; font-weight: bold;">{{ publication.title }}</li>
+      <li style="font-size: 1em; font-weight: bold;">
+        {{ publication.title }}
+      </li>
     {% endif %}
-    <div class="publication-authors" style="margin-top: 2px;"><span style="font-style: normal;">{{ publication.authors }}</span></div>
-    
-    <!-- PDF and Abstract Links -->
-    <div class="publication-pdfs">
-      {{ publication.pdfs }} | 
-      <a href="javascript:void(0);" onclick="toggleAbstract('abstractContentW{{ forloop.index }}')">[Abstract]</a>
+
+    <!-- AUTHORS -->
+    <div class="publication-authors" style="margin-top: 0px;">
+      <span style="font-style: normal;">{{ publication.authors }}</span>
     </div>
-    
-    <!-- Abstract Content -->
-    <div id="abstractContentW{{ forloop.index }}" style="display: none;">
+
+    <!-- JOURNAL (no extra top-margin) -->
+    <div class="publication-journal" style="margin-top: 0px;">
+      {{ publication.journal }}
+    </div>
+
+    <!-- PDF link(s) and toggle for abstract -->
+    <div class="publication-pdfs" style="margin-top: 0px;">
+      {{ publication.pdfs }} | 
+      <a href="javascript:void(0);" onclick="toggleAbstract('abstractContentW{{ forloop.index }}')">
+        [Abstract]
+      </a>
+    </div>
+
+    <!-- Hidden abstract content (toggled via JavaScript) -->
+    <div id="abstractContentW{{ forloop.index }}" style="display: none; margin-top: 4px;">
       <p>{{ publication.abstract }}</p>
     </div>
 
     <div class="publication-conference">{{ publication.conference }}</div>
-    <div class="publication-presented reduced-font" style="margin-top: 10px;">{{ publication.presented }}</div>
+    <div class="publication-presented reduced-font" style="margin-top: 10px;">
+      {{ publication.presented }}
+    </div>
     <div class="publication-awards reduced-font">{{ publication.awards }}</div>
   </div><!--//item-->
   {% endfor %}

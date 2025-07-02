@@ -136,22 +136,24 @@ workingpapers:
     title: Working Papers
     intro: >
     papers:
-      - title: The Long Road to Equality&colon; Racial Capital and Generational Convergence 
-        link: 
-        authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://faculty.som.yale.edu/kerwincharles/">Kerwin Kofi Charles</a>
-        conference: 
-        presented: <i>Presentation</i>&colon; AREUEA, Carnegie Mellon University, US Census, Columbia University, Harvard University, IMF, University of Michigan, University of Pittsburgh, Stanford University, University of Southern California, UEA Europe 2023 - Keynote, University of Utah, Vanderbilt University, Wharton
-        pdfs:  <a href="/pdfs/bayer_charles_park_racial_capital_april_2025.pdf" target="_blank">&#91;Paper&#93;</a>
-        abstract: "We introduce the concept of <i>racial capital</i>, defined as the collective material and non-material assets of the racial groups to which a child is exposed while growing up, and examine its potential to explain racial disparities in life outcomes that persist even after accounting for a broad range of parental and neighborhood resources. Estimates for Asian, Black, Hispanic, and White children born around 1980 imply that metro-level racial capital measures: (i) have substantial power to explain racial differences in life outcomes, (ii) sharply close and, in many cases, <i>reverse</i> the sign of racial intergenerational mobility gaps in education, income, and employment, and (iii) matter most when <i>racial dissociation</i>, as measured by residential and marriage segregation, is greatest. In contrast to standard estimates, our empirical framework implies a steady state equilibrium that is characterized by near equality for Black and White Americans. The inclusion of racial capital in the model, however, greatly slows the speed of convergence to the steady state, helping to explain the historically slow speed of racial economic convergence in the United States over the past two centuries. Finally, our framework highlights the complementary way that policies related to racial dissociation and wealth transfers affect the speed of convergence across generations. "
         
       - title: Housing Vouchers and Neighborhood Effects&colon; Can Expanding Access to Opportunity Pay for Itself?
         link: 
         authors: solo-authored
         conference: 
         #presented: <i>Presentation</i>&colon; Federal Reserve Bank of Boston 
-        pdfs: "&#91;Draft available upon request&#93;"
-        abstract: "This paper studies the impact of Small Area Fair Market Rents (SAFMR), a major reform to the voucher program that adjusts rent ceilings to a finer ZIP-code level variation, on voucher households' neighborhood and economic outcomes, and their interaction with the fiscal and non-fiscal components of program operation. Using a difference-in-differences design, I find that SAFMR improved voucher holders' relocation to higher-rent, lower-poverty neighborhoods. These effects were especially pronounced in metropolitan areas with high levels of residential segregation. Consistent with the neighborhood effects literature, relocation to high-opportunity neighborhoods increased household income and rent contributions, leading to declines in federal spending per voucher. However, the reform did not expand program reach. Long-run evidence from the first SAFMR adopter shows that federal per-unit costs eventually rose as the number of subsidized households in high-rent areas outweighed the income-driven savings, resulting in a contraction in the number of households served. These findings highlight a key trade-off: while SAFMR generates fiscal efficiencies in the short run, its long-term financial sustainability remains uncertain under a fixed program budget. "
- 
+        pdfs: "&#91;Draft coming soon!&#93;"
+        abstract: "This paper examines whether more generous housing subsidies that expand low-income households' access to high-opportunity neighborhoods can generate income gains that offset their own fiscal cost. I study a rental voucher reform that adjusts subsidy ceilings to a finer ZIP code-level rent variation, an approach often criticized for increasing public spending. This presumed trade-off, however, overlooks that income may be endogenous to location. Consistent with positive neighborhood effects, I find that moves to opportunity raise household income, increasing tenant rent contribution and resulting in a net decline in per-voucher federal spending. In high-rent areas, income gains offset higher rents. In low-rent areas, lower payment caps reduce government spending and curb landlord overcharging. However, long-run evidence shows that as more households relocate to high-rent areas, income-driven offsets weaken, costs rise, and program size contracts. These findings highlight real-time feedback effects between improved economic opportunity and the cost of programs that enable it, offering a novel insight in welfare program designs: subsidies can be expanded more efficiently when beneficiary contributions scale with income.  "
+     
+      - title: The Long Road to Equality&colon; Racial Capital and Generational Convergence 
+        link: 
+        authors: with <a href="https://sites.duke.edu/patrickbayer/" target="_blank">Patrick Bayer</a> and <a href="https://faculty.som.yale.edu/kerwincharles/" target="_blank">Kerwin Kofi Charles</a>
+        journal: <a href="https://www.nber.org/papers/w33690" target="_blank">NBER Working Paper 33690</a>
+        conference: 
+        presented: <i>Presentation</i>&colon; AREUEA, Carnegie Mellon University, US Census, Columbia University, Harvard University, IMF, University of Michigan, University of Pittsburgh, Stanford University, University of Southern California, UEA Europe 2023 - Keynote, University of Utah, Vanderbilt University, Wharton
+        pdfs:  <a href="/pdfs/bayer_charles_park_racial_capital_april_2025.pdf" target="_blank">&#91;Paper&#93;</a>
+        abstract: "We introduce the concept of <i>racial capital</i>, defined as the collective material and non-material assets of the racial groups to which a child is exposed while growing up, and examine its potential to explain racial disparities in life outcomes that persist even after accounting for a broad range of parental and neighborhood resources. Estimates for Asian, Black, Hispanic, and White children born around 1980 imply that metro-level racial capital measures: (i) have substantial power to explain racial differences in life outcomes, (ii) sharply close and, in many cases, <i>reverse</i> the sign of racial intergenerational mobility gaps in education, income, and employment, and (iii) matter most when <i>racial dissociation</i>, as measured by residential and marriage segregation, is greatest. In contrast to standard estimates, our empirical framework implies a steady state equilibrium that is characterized by near equality for Black and White Americans. The inclusion of racial capital in the model, however, greatly slows the speed of convergence to the steady state, helping to explain the historically slow speed of racial economic convergence in the United States over the past two centuries. Finally, our framework highlights the complementary way that policies related to racial dissociation and wealth transfers affect the speed of convergence across generations. "
+
       - title: Improving Access to Opportunity&colon; Housing Vouchers and Residential Equilibrium
         link: 
         authors: solo-authored
@@ -165,7 +167,7 @@ workingpapers:
         
       - title: Separate and Unequal&colon; Race and the Geography of the American Housing Market
         link: 
-        authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://faculty.som.yale.edu/kerwincharles/">Kerwin Kofi Charles</a>
+        authors: with <a href="https://sites.duke.edu/patrickbayer/" target="_blank">Patrick Bayer</a> and <a href="https://faculty.som.yale.edu/kerwincharles/" target="_blank">Kerwin Kofi Charles</a>
         conference: 
         presented: <i>Presentation</i>&colon; Federal Reserve Bank of Boston 
         pdfs: <a href="/pdfs/bayer_charles_park_separate_and_unequal_2021.pdf" target="_blank">&#91;Paper&#93;</a>
@@ -183,13 +185,13 @@ workinprogress:
     
       - title: Neighborhood Access for Voucher Holders&colon; The Impact of Institutional Landlords
         link: 
-        authors: with <a href="https://joshuacoven.github.io/">Joshua Coven</a>
+        authors: with <a href="https://joshuacoven.github.io/" target="_blank">Joshua Coven</a>
         conference: 
         presented: 
         
       - title: Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants
         link: 
-        authors: with <a href="https://aziff.github.io/">Anna L. Ziff</a>
+        authors: with <a href="https://aziff.github.io/" target="_blank">Anna L. Ziff</a>
         conference: 
         presented: 
 
