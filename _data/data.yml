@@ -141,9 +141,9 @@ workingpapers:
         link: 
         authors: solo-authored
         conference: 
-        presented: <i>Presentation</i>&colon; AREUEA-ASSA 2026 (scheduled), KER 2025 (scheduled), New York University, Wharton, World Congress 2025 (scheduled)
+        presented: <i>Presentation</i>&colon; APPAM 2025 (scheduled), AREUEA-ASSA 2026 (scheduled), KER 2025 (scheduled), New York University, UEA 2025 (scheduled), Wharton, World Congress 2025 (scheduled)
         pdfs: "&#91;Draft coming soon!&#93;"
-        abstract: "This paper examines whether more generous housing subsidies that expand low-income households' access to high-opportunity neighborhoods can generate income gains that offset their own fiscal cost. I study a rental voucher reform that adjusts subsidy ceilings to a finer ZIP code-level rent variation, an approach often criticized for increasing public spending. This presumed trade-off, however, overlooks that income may be endogenous to location. Consistent with positive neighborhood effects, I find that moves to opportunity raise household income, increasing tenant rent contribution and resulting in a net decline in per-voucher federal spending. In high-rent areas, income gains offset higher rents. In low-rent areas, lower payment caps reduce government spending and curb landlord overcharging. However, long-run evidence shows that as more households relocate to high-rent areas, income-driven offsets weaken, costs rise, and program size contracts. These findings highlight real-time feedback effects between improved economic opportunity and the cost of programs that enable it, offering a novel insight in welfare program designs: subsidies can be expanded more efficiently when beneficiary contributions scale with income.  "
+        abstract: "This paper examines whether more generous housing subsidies that expand low-income households' access to high-opportunity neighborhoods can generate income gains that offset their own fiscal cost. I study a rental voucher reform that adjusts subsidy ceilings to finer ZIP code-level rent variation, an approach often criticized for increasing public spending. This presumed trade-off, however, overlooks that income may be endogenous to location. I find that the reform resulted in a net decline in per-voucher federal spending. In high-rent areas, income gains from positive neighborhood effects partially offset higher rents. In low-rent areas, lower payment caps reduce government spending and curb landlord overcharging, while also inducing labor market responses from voucher households who increase work effort to cover higher out-of-pocket expenses from lower subsidy limits. Long-run evidence shows that as more households relocate to high-rent areas, income-driven offsets weaken, costs rise, and program size contracts. These findings highlight real-time feedback effects between improved economic opportunity and the cost of programs that enable it, offering a novel insight for welfare program design: subsidies can be expanded more efficiently when beneficiary contributions scale with income."
      
       - title: The Long Road to Equality&colon; Racial Capital and Generational Convergence 
         link: 
@@ -182,6 +182,12 @@ workinprogress:
 #        authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://sites.google.com/view/caseymd/home">Marcus Casey</a>
 #        conference: 
 #        presented:      
+    
+      - title: Housing Market Connectedness&colon; Transmission of Price Shocks across Markets through Common Owners
+        link: 
+        authors: with <a href="https://joshuacoven.github.io/" target="_blank">Joshua Coven</a> and <a href="https://www.gi-kim.com/" target="_blank">Gi Kim</a>
+        conference: 
+        presented:      
     
       - title: Neighborhood Access for Voucher Holders&colon; The Impact of Institutional Landlords
         link: 
