@@ -141,9 +141,10 @@ workingpapers:
         link: 
         authors: solo-authored
         conference: 
-        presented: <i>Presentation</i>&colon; APPAM 2025 (scheduled), AREUEA-ASSA 2026 (scheduled), KER 2025 (scheduled), New York University, UEA 2025 (scheduled), Wharton, World Congress 2025 (scheduled)
-        pdfs: "&#91;Draft coming soon!&#93;"
-        abstract: "This paper examines whether more generous housing subsidies that expand low-income households' access to high-opportunity neighborhoods can generate income gains that offset their own fiscal cost. I study a rental voucher reform that adjusts subsidy ceilings to finer ZIP code-level rent variation, an approach often criticized for increasing public spending. This presumed trade-off, however, overlooks that income may be endogenous to location. I find that the reform resulted in a net decline in per-voucher federal spending. In high-rent areas, income gains from positive neighborhood effects partially offset higher rents. In low-rent areas, lower payment caps reduce government spending and curb landlord overcharging, while also inducing labor market responses from voucher households who increase work effort to cover higher out-of-pocket expenses from lower subsidy limits. Long-run evidence shows that as more households relocate to high-rent areas, income-driven offsets weaken, costs rise, and program size contracts. These findings highlight real-time feedback effects between improved economic opportunity and the cost of programs that enable it, offering a novel insight for welfare program design: subsidies can be expanded more efficiently when beneficiary contributions scale with income."
+        presented: <i>Presentation</i>&colon; APPAM 2025 (scheduled), AREUEA-ASSA 2026 (scheduled), KER 2025, New York University, UEA 2025, Wharton, University of Wisconsin-Madison (scheduled), World Congress 2025
+        #pdfs: "&#91;Draft coming soon!&#93;"
+        pdfs: <a href="/pdfs/park_cost_small_area_fair_market_rents.pdf" target="_blank">&#91;Paper&#93;</a>
+        abstract: "This paper examines whether more generous housing subsidies that expand low-income households' access to high-opportunity neighborhoods can generate income gains that offset the projected rise in government costs. I study a rental voucher reform that adjusts subsidy ceilings to finer ZIP code-level rent variation, an approach criticized for increasing federal spending. This presumed trade-off, however, overlooks that income may be endogenous to location. I find that the reform resulted in a net decline in per-voucher federal spending. In high-rent areas, income gains from positive neighborhood effects partially offset higher rents, accounting for approximately one-third of the projected increase. In low-rent areas, reduced payment caps lower government spending, curb landlord overcharging and tenant over-housing, and induce labor market responses from voucher households who increase work effort to cover higher out-of-pocket rent burdens. These findings highlight real-time fiscal feedback mechanism between improved economic opportunity and the cost of programs that enable it, offering a novel insight for welfare program design: subsidies can be expanded more efficiently when beneficiary contributions scale with income. "
      
       - title: The Long Road to Equality&colon; Racial Capital and Generational Convergence 
         link: 
@@ -173,33 +174,33 @@ workingpapers:
         pdfs: <a href="/pdfs/bayer_charles_park_separate_and_unequal_2021.pdf" target="_blank">&#91;Paper&#93;</a>
         abstract: "In the U.S., Black and white households with identical incomes live in neighborhoods characterized by vastly different economic resources.  This racial neighborhood inequality is present in every major metropolitan area and at all points of the income distribution. We document these patterns using neighborhood income as a summary measure of economic resources and highlight where this form of racial inequality is especially severe. We then examine a series of potential explanatory mechanisms for neighborhood inequality, including decentralized racial sorting, housing discrimination, and racial differences in wealth and home ownership. We conclude with a discussion of how the separate and unequal geography of the American housing market contributes to intergenerational mobility and the speed of racial economic convergence in the United States."
 
-workinprogress: 
-    title: Works-in-Progress
-    intro: >
-    papers:
+#workinprogress: 
+#    title: Works-in-Progress
+#    intro: >
+#    papers:
 #      - title: City's Past, Present, and Future
 #        link: 
 #        authors: with <a href="https://sites.duke.edu/patrickbayer/">Patrick Bayer</a> and <a href="https://sites.google.com/view/caseymd/home">Marcus Casey</a>
 #        conference: 
 #        presented:      
     
-      - title: Housing Market Connectedness&colon; Transmission of Price Shocks across Markets through Common Owners
-        link: 
-        authors: with <a href="https://joshuacoven.github.io/" target="_blank">Joshua Coven</a> and <a href="https://www.gi-kim.com/" target="_blank">Gi Kim</a>
-        conference: 
-        presented:      
+#      - title: Housing Market Connectedness&colon; Transmission of Price Shocks across Markets through Common Owners
+#        link: 
+#        authors: with <a href="https://joshuacoven.github.io/" target="_blank">Joshua Coven</a> and <a href="https://www.gi-kim.com/" target="_blank">Gi Kim</a>
+#        conference: 
+#        presented:      
     
-      - title: Neighborhood Access for Voucher Holders&colon; The Impact of Institutional Landlords
-        link: 
-        authors: with <a href="https://joshuacoven.github.io/" target="_blank">Joshua Coven</a>
-        conference: 
-        presented: 
+#      - title: Neighborhood Access for Voucher Holders&colon; The Impact of Institutional Landlords
+#        link: 
+#        authors: with <a href="https://joshuacoven.github.io/" target="_blank">Joshua Coven</a>
+#        conference: 
+#        presented: 
         
-      - title: Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants
-        link: 
-        authors: with <a href="https://aziff.github.io/" target="_blank">Anna L. Ziff</a>
-        conference: 
-        presented: 
+#      - title: Rental Choice Sets in Low- and High-Opportunity Neighborhoods for Housing Choice Voucher Program Participants
+#        link: 
+#        authors: with <a href="https://aziff.github.io/" target="_blank">Anna L. Ziff</a>
+#        conference: 
+#        presented: 
 
 #      - title: Neighborhood Choice under Imperfect Information 
 #        link: 
