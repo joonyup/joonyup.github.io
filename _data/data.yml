@@ -136,7 +136,18 @@ workingpapers:
     title: Working Papers
     intro: >
     papers:
-        
+ 
+      - title: Improving Access to Opportunity&colon; Housing Vouchers and Residential Equilibrium
+        link: 
+        authors: solo-authored
+        conference: 
+        presented: <i>Presentation</i>&colon; AREUEA 2024, Federal Reserve Bank of Philadelphia, Indiana University, KER 2023, KIET, KIF, NARSC 2023, New York University, Sogang University, TAMC 2023, UEA North America 2023, UEA Summer School 2023, University of Alberta, University of California - Irvine, University of Southern California, Wharton 
+        #pdfs: "&#91;Updated draft coming soon!&#93;"
+        pdfs:  <a href="/pdfs/park_small_area_fair_market_rents.pdf" target="_blank">&#91;Paper&#93;</a>
+        abstract: "This paper studies how policies that improve low-income households’ access to high-opportunity neighborhoods at scale reshape residential equilibrium and welfare. I analyze Small Area Fair Market Rents (SAFMR), a redesign of the rental voucher program that increases subsidy caps in high-rent neighborhoods while lowering them elsewhere, inducing substantial relocation of subsidized households from low- to high-rent areas. This demand shift polarized the rental market: rents rose in high-rent neighborhoods and fell in low-rent neighborhoods. At the same time, it fostered a more integrated spatial equilibrium, reducing income and racial stratification within the metropolitan area. Using a structural model of neighborhood choice with endogenous rents and demographic composition, I quantify the welfare consequences for unsubsidized households without vouchers. High-income households experienced modest welfare losses from higher housing costs, while unsubsidized low-income households benefited from lower rents and reduced exposure to concentrated poverty. Although housing vouchers themselves impose welfare costs on unsubsidized low-income households by concentrating demand in low-rent areas, I show that the design that provides greater access to high-opportunity neighborhoods substantially mitigates these losses. Relative to uniform metropolitan subsidy caps, SAFMR spreads the welfare incidence of housing assistance more evenly across the income distribution."
+        abstract: 
+        awards: <i>Awards</i>&colon; AREUEA Dissertation Award Honorable Mention, Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
+ 
       - title: Housing Vouchers and Neighborhood Effects&colon; Can Expanding Access to Opportunity Pay for Itself?
         link: 
         authors: solo-authored
@@ -155,16 +166,6 @@ workingpapers:
         pdfs:  <a href="/pdfs/bayer_charles_park_racial_capital_april_2025.pdf" target="_blank">&#91;Paper&#93;</a>
         abstract: "We introduce the concept of <i>racial capital</i>, defined as the collective material and non-material assets of the racial groups to which a child is exposed while growing up, and examine its potential to explain racial disparities in life outcomes that persist even after accounting for a broad range of parental and neighborhood resources. Estimates for Asian, Black, Hispanic, and White children born around 1980 imply that metro-level racial capital measures: (i) have substantial power to explain racial differences in life outcomes, (ii) sharply close and, in many cases, <i>reverse</i> the sign of racial intergenerational mobility gaps in education, income, and employment, and (iii) matter most when <i>racial dissociation</i>, as measured by residential and marriage segregation, is greatest. In contrast to standard estimates, our empirical framework implies a steady state equilibrium that is characterized by near equality for Black and White Americans. The inclusion of racial capital in the model, however, greatly slows the speed of convergence to the steady state, helping to explain the historically slow speed of racial economic convergence in the United States over the past two centuries. Finally, our framework highlights the complementary way that policies related to racial dissociation and wealth transfers affect the speed of convergence across generations. "
 
-      - title: Improving Access to Opportunity&colon; Housing Vouchers and Residential Equilibrium
-        link: 
-        authors: solo-authored
-        conference: 
-        presented: <i>Presentation</i>&colon; AREUEA 2024, Federal Reserve Bank of Philadelphia, Indiana University, KER 2023, KIET, KIF, NARSC 2023, New York University, Sogang University, TAMC 2023, UEA North America 2023, UEA Summer School 2023, University of Alberta, University of California - Irvine, University of Southern California, Wharton 
-        pdfs: "&#91;Updated draft coming soon!&#93;"
-        #pdfs:  <a href="/pdfs/park_small_area_fair_market_rents.pdf" target="_blank">&#91;Paper&#93;</a>
-        #abstract: "This paper examines the effects of improving low-income households' access to high-rent, high-opportunity neighborhoods on the residential equilibrium. Amidst pervasive residential segregation, I study the Small Area Fair Market Rents, a re-design of the rental voucher program that increased subsidies in high-rent neighborhoods and allowed voucher families to relocate there. I find that it led to a more polarized rental market: rents rose in high-rent areas but declined in low-rent areas. In contrast, it fostered a more egalitarian equilibrium in terms of income and racial composition. While high-income non-voucher households experienced a modicum of welfare loss due to increased living costs, low-income counterparts benefited from reduced rents in low-rent neighborhoods. However, I find that the institution of the voucher program itself led to a substantial welfare loss for low-income households, the very population this program aims to assist. This research illustrates the broader implications of housing vouchers, underscoring the need to balance affordable housing, societal integration, and overall welfare."
-        abstract: 
-        awards: <i>Awards</i>&colon; AREUEA Dissertation Award Honorable Mention, Benjamin H. Stevens Graduate Fellowship Finalist, NARSC Student-Authored Competition Finalist
 
         
       - title: Separate and Unequal&colon; Race and the Geography of the American Housing Market
