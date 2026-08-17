@@ -1,4 +1,10 @@
 /* ======= Base ======= */
+// Skins may pre-define these; !default keeps the original derived colors otherwise
+$link-color: darken($theme-color, 15%) !default;
+$link-hover-color: darken($theme-color, 30%) !default;
+$section-title-color: darken($theme-color, 15%) !default;
+$sidebar-bg: $theme-color !default;
+
 body {
   font-family: "Roboto", sans-serif;
   color: $text-color-secondary;
@@ -19,10 +25,10 @@ h6 {
 }
 
 a {
-  color: darken($theme-color, 15%);
+  color: $link-color;
   &:hover {
     text-decoration: underline;
-    color: darken($theme-color, 30%);
+    color: $link-hover-color;
   }
   &:focus {
     text-decoration: none;
@@ -46,7 +52,9 @@ p {
 .sidebar-wrapper {
   grid-column: span 3;
   order: 2;
-  background: $theme-color;
+  display: flex;
+  flex-direction: column;
+  background: $sidebar-bg;
   color: #fff;
   a {
     color: #fff;
@@ -167,6 +175,17 @@ p {
       }
     }
   }
+
+  .sidebar-logo {
+    margin-top: auto; // pin to the bottom of the flex column
+    padding: 50px 30px 35px;
+    text-align: center;
+    img {
+      width: 180px;
+      max-width: 80%;
+      height: auto;
+    }
+  }
 }
 
 .main-wrapper {
@@ -177,7 +196,7 @@ p {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 500;
-    color: darken($theme-color, 15%);
+    color: $section-title-color;
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
@@ -225,7 +244,7 @@ p {
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 5px;
-    color: darken($theme-color, 15%);
+    color: $section-title-color;
   }
   .projects-section {
     .intro {
@@ -287,5 +306,9 @@ p {
 
   .fa-heart {
     color: $heart;
+  }
+
+  .footer-logo-mobile {
+    display: none; // phones only — desktop shows the in-sidebar logo
   }
 }

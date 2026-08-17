@@ -7,6 +7,22 @@
   .sidebar-wrapper {
     position: static;
     width: inherit;
+    background: $theme-color; // solid on phones: the block is short and text-filled
+  }
+
+  .sidebar-wrapper .sidebar-logo {
+    display: none; // on phones the logo moves to the end of the page instead
+  }
+
+  .footer .footer-logo-mobile {
+    display: block;
+    padding: 25px 15px;
+    text-align: center;
+    img {
+      width: 180px;
+      max-width: 80%;
+      height: auto;
+    }
   }
 
   .wrapper {
